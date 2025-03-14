@@ -98,12 +98,9 @@ git stash list
 - می‌توان با `git push` تغییرات را به مخزن راه دور ارسال و با `git pull` تغییرات را دریافت کرد.
 
 ```sh
-# افزودن یک مخزن راه دور
 git remote add origin <remote-url>
 
-# ارسال تغییرات به مخزن راه دور
 git push origin main
 
-# دریافت تغییرات از مخزن راه دور
 git pull origin main
 ```
