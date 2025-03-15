@@ -115,9 +115,18 @@ git pull origin main
 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2.png)
 
+## گرفتن فایل از git
+پس از ساختن فایل های اصلی پروژه، نیاز داریم تا روی شاخه های مختلف، تغییرات خود را پیش ببریم. از این رو هرکدام از اعضا باید پروژه را clone کرده، روی یک برنچ مشخص checkout کرده و سپس با اعمال تغییرات، نسبت به ثبت commit و push اقدام کنند.
+در ادامه تصاویری از command های مربوط به این موارد را مشاهده میکنید.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/clone1.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/checkout1.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/addpush1.jpg)
+
 ## اعمال محدودیت در مخزن برای شاخه main
 همانطور که در دستور کار گفته شده است، محدودیتی باید فعال کنیم که تنها از طریق pull request امکان ادغام شاخه ای دیگر با شاخه main را داشته باشیم.
 فعال کردن این محدودیت در setting/rulesets میباشد که تصاویری از فعال کردن را در زیر مشاهده میکنید.
 
-![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.png) 
-![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.png) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.jpg) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.jpg) 
+
