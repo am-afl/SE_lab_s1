@@ -123,6 +123,16 @@ git pull origin main
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/checkout1.jpg)
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/addpush1.jpg)
 
+## ایجاد و حل مشکل conflict دوم
+همانطور که در دستور کار نوشته شده، نیاز به پیاده سازی حداقل دو conflict در پروژه داریم.
+دومین conflict در فایل styles.css و مربوط به کلاس های nature_day میباشد که حل آن را در تصاویر زیر میبینید.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf21.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf22.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf23.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf24.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf25.jpg)
+
 ## اعمال محدودیت در مخزن برای شاخه main
 همانطور که در دستور کار گفته شده است، محدودیتی باید فعال کنیم که تنها از طریق pull request امکان ادغام شاخه ای دیگر با شاخه main را داشته باشیم.
 فعال کردن این محدودیت در setting/rulesets میباشد که تصاویری از فعال کردن را در زیر مشاهده میکنید.
