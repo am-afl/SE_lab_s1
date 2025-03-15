@@ -130,3 +130,8 @@ git pull origin main
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.jpg) 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.jpg) 
 
+## نوشتن پاسخ سوالات تشریحی در readme
+همانطور که در دستورکار آمده است، نیاز است تا پاسخ سوالات تشریحی را در فایل readme بنویسیم. برای همین از شاخه answers استفاده میکنیم و بعد از checkout به آن و نوشتن پاسخ ها، تغییرات را commit و push میکنیم.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer1.jpg) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer2.jpg) 
