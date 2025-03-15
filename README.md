@@ -114,3 +114,10 @@ git pull origin main
 حال که یک مخزن داریم ، میتوانیم که فایل های خام پروژه را ایجاد و داخل مخزن قرار دهیم. ابن عملبات ها را با استفاده از دستوراتی که در تصویر زیر مشاهده میکنید انجام میدهیم.
 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2.png)
+
+## اعمال محدودیت در مخزن برای شاخه main
+همانطور که در دستور کار گفته شده است، محدودیتی باید فعال کنیم که تنها از طریق pull request امکان ادغام شاخه ای دیگر با شاخه main را داشته باشیم.
+فعال کردن این محدودیت در setting/rulesets میباشد که تصاویری از فعال کردن را در زیر مشاهده میکنید.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.png) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.png) 
