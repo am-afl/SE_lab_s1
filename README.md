@@ -135,3 +135,7 @@ git pull origin main
 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer1.jpg) 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer2.jpg) 
+
+در نهایت نیز با checkout به شاخه main، تغییرات ایجاد شده در شاخه answers را در main، merge میکنیم.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer3.jpg) 
