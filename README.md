@@ -115,9 +115,37 @@ git pull origin main
 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2.png)
 
+## گرفتن فایل از git
+پس از ساختن فایل های اصلی پروژه، نیاز داریم تا روی شاخه های مختلف، تغییرات خود را پیش ببریم. از این رو هرکدام از اعضا باید پروژه را clone کرده، روی یک برنچ مشخص checkout کرده و سپس با اعمال تغییرات، نسبت به ثبت commit و push اقدام کنند.
+در ادامه تصاویری از command های مربوط به این موارد را مشاهده میکنید.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/clone1.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/checkout1.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/addpush1.jpg)
+
+## ایجاد و حل مشکل conflict دوم
+همانطور که در دستور کار نوشته شده، نیاز به پیاده سازی حداقل دو conflict در پروژه داریم.
+دومین conflict در فایل styles.css و مربوط به کلاس های nature_day میباشد که حل آن را در تصاویر زیر میبینید.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf21.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf22.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf23.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf24.jpg)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf25.jpg)
+
 ## اعمال محدودیت در مخزن برای شاخه main
 همانطور که در دستور کار گفته شده است، محدودیتی باید فعال کنیم که تنها از طریق pull request امکان ادغام شاخه ای دیگر با شاخه main را داشته باشیم.
 فعال کردن این محدودیت در setting/rulesets میباشد که تصاویری از فعال کردن را در زیر مشاهده میکنید.
 
-![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.png) 
-![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.png) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.jpg) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.jpg) 
+
+## نوشتن پاسخ سوالات تشریحی در readme
+همانطور که در دستورکار آمده است، نیاز است تا پاسخ سوالات تشریحی را در فایل readme بنویسیم. برای همین از شاخه answers استفاده میکنیم و بعد از checkout به آن و نوشتن پاسخ ها، تغییرات را commit و push میکنیم.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer1.jpg) 
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer2.jpg) 
+
+در نهایت نیز با checkout به شاخه main، تغییرات ایجاد شده در شاخه answers را در main، merge میکنیم.
+
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/answer3.jpg) 
