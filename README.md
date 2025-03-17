@@ -123,6 +123,13 @@ git pull origin main
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/checkout1.jpg)
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/addpush1.jpg)
 
+## ایجاد و حل مشکل conflict اول
+همانطور که در دستور کار نوشته شده، نیاز به پیاده سازی حداقل دو conflict در پروژه داریم.
+اولین conflict در فایل styles.css و مربوط به کلاس های fireworks میباشد که حل آن را در تصاویر زیر میبینید.
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf11.png)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf12.png)
+![](https://github.com/am-afl/SE_lab_s1/blob/report/image/conf13.png)
+
 ## ایجاد و حل مشکل conflict دوم
 همانطور که در دستور کار نوشته شده، نیاز به پیاده سازی حداقل دو conflict در پروژه داریم.
 دومین conflict در فایل styles.css و مربوط به کلاس های nature_day میباشد که حل آن را در تصاویر زیر میبینید.
@@ -139,6 +146,9 @@ git pull origin main
 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic1rule.jpg) 
 ![](https://github.com/am-afl/SE_lab_s1/blob/report/image/pic2rule.jpg) 
+
+## استقرار پروژه
+برای استقرار پروژه از منوی بالا  سایت github.com ، وارد بخش Actions می شویم. در این بخش گزینه های متعددی برای استقرار سایت وجود دارد که هر یک از آن ها یک فایل yaml به پروژه اضافه میکند. با انتخاب گزینه مناسب به راحتی این پروژه را Deploy کردیم.
 
 ## نوشتن پاسخ سوالات تشریحی در readme
 همانطور که در دستورکار آمده است، نیاز است تا پاسخ سوالات تشریحی را در فایل readme بنویسیم. برای همین از شاخه answers استفاده میکنیم و بعد از checkout به آن و نوشتن پاسخ ها، تغییرات را commit و push میکنیم.
